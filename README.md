@@ -24,7 +24,7 @@
 -------------------------------------------------
 
 # 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧
-<a href="https://heroku.com/deploy?template=https://github.com/thanosuser/ThanosBot-v4.0" target="_blank"><img src="https://img.shields.io/badge/ＤΞＰＬ♢Ｙ%20ＴＨΛＮ♢Ｓ%20√４-blue?style=for-the-badge&logo=heroku" 
+<a href="https://heroku.com/deploy?template=https://github.com/Anju56/ThanosBot-v4.0" target="_blank"><img src="https://img.shields.io/badge/ＤΞＰＬ♢Ｙ%20ＴＨΛＮ♢Ｓ%20√４-blue?style=for-the-badge&logo=heroku" 
 height="40px" width="200px" alt="heroku" /></a>
 
 ------------------------------------------------
